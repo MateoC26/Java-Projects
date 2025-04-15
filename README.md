@@ -1,8 +1,8 @@
 # Java-Projects
 Projects made in Java
 
-Chat - Client Server on localhost
+HW2 - Auto Color Changing Buttons
 
-Analog Clock
+HW 4 - Chat - Client Server on localhost
 
-Auto Color Changing Buttons
+HW 5 - Analog Clock
